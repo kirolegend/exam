@@ -1,0 +1,15 @@
+.contAudi{
+  width: 374px;
+  height: 265px;
+  position: relative;
+}
+.bcgS{
+  width: 370px;
+  height: 265px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.255);
+  z-index: 1;
+}

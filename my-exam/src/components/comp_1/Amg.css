@@ -1,0 +1,15 @@
+.contAmg{
+  width: 374px;
+  height: 560px;
+  position: relative;
+}
+.bcg{
+  position: absolute;
+  width: 370px;
+  height: 560px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.255);
+  z-index: 0;
+}
